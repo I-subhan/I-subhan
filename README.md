@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Muhammad Subhan
 
-💻 Skills:
+💻 **Skills:**
 
 - Flutter & Dart
 - Firebase (Auth, Firestore)
